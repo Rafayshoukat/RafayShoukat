@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning REACT and VIEW
 - 💞️ I’m looking to collaborate on web-development
-- 📫 How to reach me, see the linked in profile in my profile
+- 📫 How to reach me, see the linkedin profile in my profile
 
 <!---
 RafayShoukat/RafayShoukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
