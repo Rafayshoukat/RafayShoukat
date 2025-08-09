@@ -1,6 +1,6 @@
  Hi, I’m @RafayShoukat
  I’m interested in web-development
- I’m currently working as a REACT front-end developer 
+ I’m currently working as a React.js front-end developer 
  I’m looking to collaborate on web-development
  How to reach me, see the linkedin profile in my profile
 
